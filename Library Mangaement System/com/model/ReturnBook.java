@@ -1,8 +1,8 @@
 
-package com.wipro.model;
+package com.model;
 
-import com.wipro.entity.Book;
-import com.wipro.entity.Student;
+import com.entity.Book;
+import com.entity.Student;
 
 public class ReturnBook {
 
