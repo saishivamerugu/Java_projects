@@ -1,8 +1,8 @@
 package com.wipro.model;
 
-import com.wipro.entity.Book; 
-import com.wipro.entity.Librarian;
-import com.wipro.entity.Student;
+import com.entity.Book; 
+import comentity.Librarian;
+import com.entity.Student;
 public class RequestBook {
 	
 	public void requestBook(String hallTicketNo, int bookCode, BookController bookController, StudentController studentController) {
