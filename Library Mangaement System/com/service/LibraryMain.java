@@ -1,14 +1,14 @@
-package com.wipro.service;
+package com.service;
 
 import java.util.Scanner;
 
-import com.wipro.entity.Book;
-import com.wipro.entity.Librarian;
-import com.wipro.model.BookController;
-import com.wipro.model.RequestBook;
-import com.wipro.model.ReturnBook;
-import com.wipro.model.SearchBook;
-import com.wipro.model.StudentController;
+import com.entity.Book;
+import com.entity.Librarian;
+import com.model.BookController;
+import com.model.RequestBook;
+import com.model.ReturnBook;
+import com.model.SearchBook;
+import com.model.StudentController;
 
 public class LibraryMain {
 
