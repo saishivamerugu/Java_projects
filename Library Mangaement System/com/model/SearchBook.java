@@ -1,7 +1,7 @@
-package com.wipro.model;
+package com.model;
 
 
-import com.wipro.entity.Book;
+import com.entity.Book;
 
 public class SearchBook {
 
