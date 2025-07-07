@@ -1,4 +1,4 @@
-package com.wipro.entity;
+package com.entity;
 
 import java.util.Arrays;
 
