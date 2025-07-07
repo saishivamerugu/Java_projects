@@ -1,13 +1,13 @@
-package com.wipro.model;
+package com.model;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.wipro.entity.Book;
+import com.entity.Book;
 
 public class BookController {
 
-	ArrayList<Book> bookList = new ArrayList<>();
+    ArrayList<Book> bookList = new ArrayList<>();
     Scanner sc = new Scanner(System.in);
     
     public void addBooks() {
