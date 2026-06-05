@@ -74,4 +74,4 @@ Each project in this repository focuses on different Java concepts:
 
 *Note: Update this table with your actual project names and descriptions*
 
-## 🎓 Learning Resources
+
