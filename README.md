@@ -30,3 +30,6 @@ This repository contains Java applications developed to demonstrate proficiency 
 - Maven 3.6+
 - Eclipse IDE or any preferred Java IDE
 - MySQL (for database-related projects)
+
+## Latest Update
+Updated repository documentation on June 7, 2026.
